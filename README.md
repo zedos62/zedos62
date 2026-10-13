@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="./assets/header.svg" width="100%" alt="Zelalem Tesfaye Banner" />
+<img src="https://raw.githubusercontent.com/zedos62/zedos62/main/assets/header.svg" width="100%" alt="Zelalem Tesfaye Banner" />
 
 <br/><br/>
 
