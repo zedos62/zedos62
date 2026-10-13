@@ -15,6 +15,9 @@
 <a href="https://github.com/zedos62" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://zedos62.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Live%20Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+</a>
 
 <br/><br/>
 
