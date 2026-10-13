@@ -1,19 +1,23 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/zedos62/zedos62/main/assets/header.svg" width="100%" alt="Zelalem Tesfaye Banner" />
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/zedos62/zedos62/main/assets/banner.png" width="100%" alt="Zelalem Tesfaye Banner" />
+
+<br/><br/>
+
+<!-- Profile Avatar Spotlight -->
+<a href="https://github.com/zedos62">
+  <img src="https://raw.githubusercontent.com/zedos62/zedos62/main/assets/profile.png" width="135" height="135" style="border-radius: 50%; border: 3px solid #3b82f6;" alt="Zelalem Tesfaye" />
+</a>
 
 <br/><br/>
 
 <!-- Social & Profile Badges -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/zelalem-tesfaye-086569412/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:teszelalem6262@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="https://github.com/zedos62" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -30,14 +34,14 @@
 
 ### 💫 About Me
 
-Passionate software engineer focused on building resilient full-stack web applications, high-performance backend systems, and low-level protocol architectures. Experienced in modern development stacks (Next.js, Python, TypeScript) as well as systems-level programming and enterprise batch processing.
+Passionate **Software Engineer, Data Annotator & UI/UX Designer** focused on building resilient full-stack applications, intelligent data solutions, and low-level protocol architectures. Experienced in modern development stacks (Next.js, Python, TypeScript) as well as systems-level programming and enterprise batch systems.
 
 - 🔭 **I'm currently working on**: AI-powered matching systems ([Smart Job Portal](https://github.com/zedos62/smart-job-portal)) and enterprise recruitment engines ([JobHub Enterprise](https://github.com/zedos62/Jobhub-enterprise)).
 - 🌱 **I'm currently learning**: **Rust**, distributed architectures, and cloud-native systems.
 - 👯 **I'm looking to collaborate on**: Open-source systems libraries, Next.js web applications, and backend microservices.
-- 💬 **Ask me about**: Python (FastAPI), TypeScript, Next.js 15, C binary protocols, database design, and enterprise migrations.
-- 📫 **How to reach me**: [teszelalem6262@gmail.com](mailto:teszelalem6262@gmail.com)
-- ⚡ **Fun fact**: I enjoy bridging cutting-edge web technologies with low-level systems and legacy enterprise architectures!
+- 💬 **Ask me about**: Python (FastAPI), TypeScript, Next.js 15, C binary protocols, database design, and UI/UX design.
+- 📫 **How to reach me**: [teszelalem6262@gmail.com](mailto:teszelalem6262@gmail.com) &bull; [LinkedIn](https://www.linkedin.com/in/zelalem-tesfaye-086569412/)
+- ⚡ **Fun fact**: I love bridging user-centric UI/UX design with high-performance low-level system backends!
 
 ---
 
@@ -66,9 +70,9 @@ Passionate software engineer focused on building resilient full-stack web applic
 
 <br/>
 
-#### Tools & Environments
+#### UI/UX & Developer Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,tailwind" alt="Tools & Environments" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,vscode,postman" alt="UI/UX & Tools" />
 </a>
 
 </div>
@@ -91,10 +95,11 @@ Passionate software engineer focused on building resilient full-stack web applic
 
 | Domain | Status | Key Focus & Tooling |
 | :--- | :---: | :--- |
-| **Full-Stack Web Development** | 🟢 Active | Next.js 15 (App Router), React, TypeScript, Tailwind CSS, Prisma ORM |
+| **Full-Stack & Mobile/Web** | 🟢 Active | Next.js 15 (App Router), React, TypeScript, Tailwind CSS, Prisma ORM |
 | **Backend & Microservices** | 🟢 Active | Python FastAPI, Express, RESTful API design, Auth & JWT security |
 | **Systems & Binary Protocols** | 🟢 Active | C protocol architecture, TLV streaming parser, libFuzzer & ClusterFuzzLite |
 | **Enterprise Batch Processing** | 🟢 Active | COBOL batch routines, transactional records, data reconciliation |
+| **UI/UX Design & Data** | 🟢 Active | Figma wireframing & prototyping, AI data annotation workflows |
 | **DevOps & Automation** | 🟢 Active | Docker containerization, Linux environments, GitHub Actions CI/CD |
 
 ---
@@ -114,6 +119,7 @@ Passionate software engineer focused on building resilient full-stack web applic
 
 - 📖 Deepening expertise in **Rust** and low-level systems programming
 - 🛠️ Designing scalable microservices and distributed transaction patterns
+- 🎨 Creating modern, intuitive UI/UX designs and design systems
 - 🚀 Expanding automated CI/CD security testing and fuzzing pipelines
 
 ---
@@ -122,9 +128,10 @@ Passionate software engineer focused on building resilient full-stack web applic
 
 - 💻 **Full-stack web applications** (Next.js / React / TypeScript / Node.js)
 - ⚙️ **High-performance backend systems & REST APIs** (Python FastAPI / Node.js)
+- 🎨 **UI/UX Design & Prototyping** (Figma / Modern Design Systems)
 - 🔒 **Protocol engineering & security testing** (C / TLV Protocols / Fuzzing)
 - 🔄 **Enterprise batch modernization & database optimization**
-- 💬 *Feel free to reach out via [email](mailto:teszelalem6262@gmail.com) for collaborations or opportunities!*
+- 💬 *Feel free to reach out via [email](mailto:teszelalem6262@gmail.com) or [LinkedIn](https://www.linkedin.com/in/zelalem-tesfaye-086569412/)!*
 
 <br/>
 
