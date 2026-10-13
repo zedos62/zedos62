@@ -5,13 +5,6 @@
 
 <br/><br/>
 
-<!-- Profile Avatar Spotlight -->
-<a href="https://github.com/zedos62">
-  <img src="https://raw.githubusercontent.com/zedos62/zedos62/main/assets/profile.png" width="135" height="135" style="border-radius: 50%; border: 3px solid #3b82f6;" alt="Zelalem Tesfaye" />
-</a>
-
-<br/><br/>
-
 <!-- Social & Profile Badges -->
 <a href="https://www.linkedin.com/in/zelalem-tesfaye-086569412/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
